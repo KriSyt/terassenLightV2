@@ -11,3 +11,14 @@
 void led1ISR();
 void led2ISR();
 void led3ISR();
+
+/*! \mainpage Mainpage
+ *
+ * \section Overview
+ *
+ * Creates 3 Led Objects and corresponding ISR.
+ *
+ * Logging is handled by Logger
+ *
+ *
+ */
